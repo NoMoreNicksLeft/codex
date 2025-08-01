@@ -48,7 +48,7 @@ Use best judgement. File naming conventions are often dictated by software syste
 * `FANF` - [Fanfiction.net](https://www.fanfiction.net/) -
 * `GTNA` - [Project Gutenberg Australia](https://gutenberg.net.au/) - 
 * `GTNB` - [Project Gutenberg](https://www.gutenberg.org/) - 
-* `GTNC` - [Project Gutenberg Canada](https://gutenberg.ca/index.html) - 
+* `GTNC` - [Project Gutenberg Canada](https://gutenberg.ca/) - 
 * `ISBN` - [International Standard Book Number](http://www.isbn.org/) - [&lt;ID format&gt;](https://en.wikipedia.org/wiki/ISBN#Overview)
 * `ISMN` - [International Standard Music Number](https://www.ismn-international.org/) - 
 * `ISSN` - [International Standard Serial Number](https://www.issn.org/) (periodicals) - 
@@ -71,6 +71,7 @@ Use best judgement. File naming conventions are often dictated by software syste
 * `YOUT` - [YouTube](https://youtube.com/) - [&lt;ID format&gt;](formats/yout.md)
 
 ### Art
+* `DEVA` - [Deviant Art](https://www.deviantart.com/)
 
 ### Recipes
 * `ALLR` - [Allrecipes.com](https://www.allrecipes.com/)
@@ -92,7 +93,7 @@ Use best judgement. File naming conventions are often dictated by software syste
 * `ISOL` - [ISO 639](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) -
 * `LING` - [Linguasphere Observatory](https://linguasphere.info/) -
 
-### Physibles
+### Plans / blueprints / physibles
 * `THNG` - [Thingiverse](https://www.thingiverse.com)
 
 ### Garment patterns
