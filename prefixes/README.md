@@ -49,9 +49,9 @@ Use best judgement. File naming conventions are often dictated by software syste
 * `GTNA` - [Project Gutenberg Australia](https://gutenberg.net.au/) - 
 * `GTNB` - [Project Gutenberg](https://www.gutenberg.org/) - 
 * `GTNC` - [Project Gutenberg Canada](https://gutenberg.ca/index.html) - 
-* `ISBN` - [International Standard Book Number]()
-* `ISMN` - [International Standard Music Number](https://www.ismn-international.org/)
-* `ISSN` - [International Standard Serial Number](https://www.issn.org/) (periodicals) -
+* `ISBN` - [International Standard Book Number](http://www.isbn.org/) - [&lt;ID format&gt;](https://en.wikipedia.org/wiki/ISBN#Overview)
+* `ISMN` - [International Standard Music Number](https://www.ismn-international.org/) - 
+* `ISSN` - [International Standard Serial Number](https://www.issn.org/) (periodicals) - 
 * `MRXV` - [medRxiv](https://www.medrxiv.org/) - 
 * `MUSE` - [Musescore](https://musescore.com/) - 
 * `LCCN` - [Library of Congress Control Number](https://en.wikipedia.org/wiki/Library_of_Congress_Control_Number) -
@@ -61,13 +61,14 @@ Use best judgement. File naming conventions are often dictated by software syste
 * `SCPF` - [SCP Foundation](https://scp-wiki.wikidot.com/) -
 * `SEPH` - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) - 
 * `TUMB` - [Tumblr](https://www.tumblr.com/) -
+* `VIXA` - [viXra](https://vixra.org/) - 
 * `WIKI` - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) -
 * `WORP` - [Wordpress](https://wordpress.com/) -
 
 ### Video / Films / Shows
 * `DMOT` - [Daily Motion](https://dailymotion.com/) - 
 * `VIME` - [Vimeo](https://vimeo.com/) - 
-* `YOUT` - [YouTube](https://youtube.com/) - [&lt;ID format&gt;](/formats/yout.md)
+* `YOUT` - [YouTube](https://youtube.com/) - [&lt;ID format&gt;](formats/yout.md)
 
 ### Art
 
@@ -82,7 +83,7 @@ Use best judgement. File naming conventions are often dictated by software syste
 * `YUMM` - [Yummly.com]()
 
 ### Humans
-* `ISNI` - [International Standard Name Identifier](https://en.wikipedia.org/wiki/International_Standard_Name_Identifier) - 
+* `ISNI` - [International Standard Name Identifier](https://en.wikipedia.org/wiki/International_Standard_Name_Identifier) - <format as issued by that org>
 * `ORCI` - [OCRID](https://en.wikipedia.org/wiki/ORCID) - 
 
 ### Langauges
@@ -90,6 +91,9 @@ Use best judgement. File naming conventions are often dictated by software syste
 * `GLOT` - [Glottolog](https://glottolog.org/) -
 * `ISOL` - [ISO 639](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) -
 * `LING` - [Linguasphere Observatory](https://linguasphere.info/) -
+
+### Physibles
+* `THNG` - [Thingiverse](https://www.thingiverse.com)
 
 ### Garment patterns
 * `BURD` - [Burda Style](https://simplicity.com/) - 
