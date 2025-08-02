@@ -85,7 +85,7 @@ Use best judgement. File naming conventions are often dictated by software syste
 
 ### Humans
 * `ISNI` - [International Standard Name Identifier](https://en.wikipedia.org/wiki/International_Standard_Name_Identifier) - <format as issued by that org>
-* `ORCI` - [OCRID](https://en.wikipedia.org/wiki/ORCID) - 
+* `ORCI` - [ORCID](https://en.wikipedia.org/wiki/ORCID) - 
 
 ### Langauges
 * `ETHN` - [Ethnologue](https://www.ethnologue.com/) - 
