@@ -51,7 +51,9 @@ Use best judgement. File naming conventions are often dictated by software syste
 * `GTNC` - [Project Gutenberg Canada](https://gutenberg.ca/) - 
 * `ISBN` - [International Standard Book Number](http://www.isbn.org/) - [&lt;ID format&gt;](https://en.wikipedia.org/wiki/ISBN#Overview)
 * `ISMN` - [International Standard Music Number](https://www.ismn-international.org/) - 
-* `ISSN` - [International Standard Serial Number](https://www.issn.org/) (periodicals) - 
+* `ISSN` - [International Standard Serial Number](https://www.issn.org/) (periodicals) -
+* `ISFS` - [Internet Speculative Fiction Database](https://www.isfdb.org) (series) - 
+* `ISFT` - [Internet Speculative Fiction Database](https://www.isfdb.org) (title) - 
 * `MRXV` - [medRxiv](https://www.medrxiv.org/) - 
 * `MUSE` - [Musescore](https://musescore.com/) - 
 * `LCCN` - [Library of Congress Control Number](https://en.wikipedia.org/wiki/Library_of_Congress_Control_Number) -
