@@ -71,6 +71,7 @@ Use best judgement. File naming conventions are often dictated by software syste
 * `DMOT` - [Daily Motion](https://dailymotion.com/) - 
 * `VIME` - [Vimeo](https://vimeo.com/) - 
 * `YOUT` - [YouTube](https://youtube.com/) - [&lt;ID format&gt;](formats/yout.md)
+* `TKTK` - [TikTok](https://tiktok.com/) - 
 
 ### Art
 * `DEVA` - [Deviant Art](https://www.deviantart.com/)
@@ -104,6 +105,7 @@ Use best judgement. File naming conventions are often dictated by software syste
 * `KNOW` - [Know Me](https://simplicity.com/) -
 * `MCCA` - [McCall's](https://simplicity.com/) -
 * `NWLK` - [New Look](https://simplicity.com/) -
+* `SHEP` - [Shepherd Wools Ltd.](https://www.ausyarnco.com.au/) - 
 * `SIMP` - [Simplicity](https://simplicity.com/) -
 * `THTH` - [Thread Theory](https://threadtheory.ca/) -
 * `VOPA` - [Vogue Patterns](https://simplicity.com/) -
