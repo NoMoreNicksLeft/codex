@@ -26,7 +26,7 @@ ISSN is the preferred identifier. If the nature of the files makes it clear that
     Lubbock Avalanche-Journal (OCLC•13942131)/
     Piecework (2377-7591)
 
-For duplicate nationalized titles (most popular magazines like Rolling Stone, Reader's Digest, etc.), additional disambiguation can be included within the parentheses separated by parentheses:
+For duplicate nationalized titles (most popular magazines like Rolling Stone, Reader's Digest, etc.), additional disambiguation can be included within the parentheses separated by commas:
 
     Playboy (0156-8892, au)
     Vogue (0262-2130, uk)
