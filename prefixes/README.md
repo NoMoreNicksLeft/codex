@@ -58,6 +58,7 @@ Use best judgement. File naming conventions are often dictated by software syste
 * `LCCN` - [Library of Congress Control Number](https://en.wikipedia.org/wiki/Library_of_Congress_Control_Number) -
 * `LIVJ` - [Livejournal](https://www.livejournal.com/) -
 * `OCLC` - [OCLC](https://en.wikipedia.org/wiki/OCLC#Identifiers_and_linked_data) -
+* `OLIB` - [Open Library](https://openlibrary.org/) - 
 * `REDD` - [Reddit](https://old.reddit.com/) - 
 * `SCPF` - [SCP Foundation](https://scp-wiki.wikidot.com/) -
 * `SEPH` - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) - 
